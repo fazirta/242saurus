@@ -1,3 +1,21 @@
+fazirta:
+  name: Muhammad Fazil Tirtana
+  title: Cybersecurity Analyst @ IBM
+  url: https://github.com/fazirta
+  image_url: https://github.com/fazirta.png
+  page: true
+  socials:
+    github: fazirta
+
+ArzakaRaffan:
+  name: Arzaka Raffan Mawardi
+  title: Cloud Solutions Architect @ Oracle
+  url: https://github.com/ArzakaRaffan
+  image_url: https://github.com/ArzakaRaffan.png
+  page: true
+  socials:
+    github: ArzakaRaffan
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
